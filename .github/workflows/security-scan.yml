@@ -1,5 +1,5 @@
 ---
-name: Security Scan — SABHAPATI: Multi-Agent for Judicial Deliberation
+name: "Security Scan — SABHAPATI: Multi-Agent for Judicial Deliberation"
 
 on:
   push:
